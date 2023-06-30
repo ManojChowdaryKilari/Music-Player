@@ -98,10 +98,7 @@ let playlist = [ {
     'title':'Bang Bang',
     'audio':"assets/sample26.mp3"
  },
- {
-    'title':'Dosti',
-    'audio':"assets/sample27.mp3"
- },
+ 
 
 
 
